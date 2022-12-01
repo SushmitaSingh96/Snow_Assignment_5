@@ -1,7 +1,6 @@
 import turtle
 import numpy as np
 
-
 def main(speed=0, bg_color="grey"):
     # create Turtle object
     turtle_screen = turtle.Screen()
