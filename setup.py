@@ -3,7 +3,7 @@ from setuptools import find_packages
 from distutils.core import setup
 
 setup(
-    name='Snow_Assignment_5',
+    name='SnowAssignment5',
     version='1.0',
     packages=[''],
     url='',
