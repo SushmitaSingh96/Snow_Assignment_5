@@ -3,9 +3,9 @@ from setuptools import find_packages
 from distutils.core import setup
 
 setup(
-    name='SnowAssignment5',
+    name='snowflake',
     version='1.0',
-    packages=[''],
+    packages=['snowflake'],
     url='',
     license='',
     package = find_packages(),
